@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1033223373491",
+    "firebase_url": "https://lojf-8bb9b-default-rtdb.firebaseio.com",
+    "project_id": "lojf-8bb9b",
+    "storage_bucket": "lojf-8bb9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033223373491:android:e7ae69aa514e873f5ae6c6",
+        "android_client_info": {
+          "package_name": "com.id.lojf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEL6Pg5yTPAsODNvuQMssxWGLKtfdwxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033223373491:android:aa570a6abef6d33f5ae6c6",
+        "android_client_info": {
+          "package_name": "id.co.lojf.nextgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEL6Pg5yTPAsODNvuQMssxWGLKtfdwxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

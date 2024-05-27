@@ -1,0 +1,2 @@
+# lojf
+ Home of LOJF
